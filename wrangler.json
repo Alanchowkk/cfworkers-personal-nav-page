@@ -1,0 +1,12 @@
+{
+  "name": "cloudflare-nav-page",
+  "pages_build_output_dir": ".",
+  "compatibility_date": "2026-05-31",
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "nav-db",
+      "database_id": "932d56d6-6418-421f-a1ba-6e0c5e227e0d"
+    }
+  ]
+}
